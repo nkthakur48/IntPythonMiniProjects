@@ -1,0 +1,1 @@
+This repo have the code written for the mini-projects in the "Interative Python programming" course at coursera. Enjoy!
